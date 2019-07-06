@@ -1,0 +1,14 @@
+C:\Users\OEM.DESKTOP-18E51O3\source\repos\schoolSIMS1\schoolSIMS1\bin\Debug\netcoreapp2.2\schoolSIMS1.deps.json
+C:\Users\OEM.DESKTOP-18E51O3\source\repos\schoolSIMS1\schoolSIMS1\bin\Debug\netcoreapp2.2\schoolSIMS1.runtimeconfig.json
+C:\Users\OEM.DESKTOP-18E51O3\source\repos\schoolSIMS1\schoolSIMS1\bin\Debug\netcoreapp2.2\schoolSIMS1.runtimeconfig.dev.json
+C:\Users\OEM.DESKTOP-18E51O3\source\repos\schoolSIMS1\schoolSIMS1\bin\Debug\netcoreapp2.2\schoolSIMS1.dll
+C:\Users\OEM.DESKTOP-18E51O3\source\repos\schoolSIMS1\schoolSIMS1\bin\Debug\netcoreapp2.2\schoolSIMS1.pdb
+C:\Users\OEM.DESKTOP-18E51O3\source\repos\schoolSIMS1\schoolSIMS1\obj\Debug\netcoreapp2.2\schoolSIMS1.csprojAssemblyReference.cache
+C:\Users\OEM.DESKTOP-18E51O3\source\repos\schoolSIMS1\schoolSIMS1\obj\Debug\netcoreapp2.2\schoolSIMS1.csproj.CoreCompileInputs.cache
+C:\Users\OEM.DESKTOP-18E51O3\source\repos\schoolSIMS1\schoolSIMS1\obj\Debug\netcoreapp2.2\schoolSIMS1.RazorAssemblyInfo.cache
+C:\Users\OEM.DESKTOP-18E51O3\source\repos\schoolSIMS1\schoolSIMS1\obj\Debug\netcoreapp2.2\schoolSIMS1.RazorAssemblyInfo.cs
+C:\Users\OEM.DESKTOP-18E51O3\source\repos\schoolSIMS1\schoolSIMS1\obj\Debug\netcoreapp2.2\schoolSIMS1.AssemblyInfoInputs.cache
+C:\Users\OEM.DESKTOP-18E51O3\source\repos\schoolSIMS1\schoolSIMS1\obj\Debug\netcoreapp2.2\schoolSIMS1.AssemblyInfo.cs
+C:\Users\OEM.DESKTOP-18E51O3\source\repos\schoolSIMS1\schoolSIMS1\obj\Debug\netcoreapp2.2\schoolSIMS1.RazorTargetAssemblyInfo.cache
+C:\Users\OEM.DESKTOP-18E51O3\source\repos\schoolSIMS1\schoolSIMS1\obj\Debug\netcoreapp2.2\schoolSIMS1.dll
+C:\Users\OEM.DESKTOP-18E51O3\source\repos\schoolSIMS1\schoolSIMS1\obj\Debug\netcoreapp2.2\schoolSIMS1.pdb
